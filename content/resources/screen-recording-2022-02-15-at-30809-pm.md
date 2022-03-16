@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Video
 title: Screen Recording 2022-02-15 at 3.08.09 PM.mov
-uid: b77c0d5f-b355-4bb3-9b59-e2ce6acd9616
+uid: a0f9b297-fe9e-41be-b52f-e7b6e36dac4f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
